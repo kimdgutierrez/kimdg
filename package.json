@@ -1,0 +1,19 @@
+{
+  "name": "@kim.d.gutierrez/kimdg",
+  "version": "1.1.0",
+  "description": "A newly ordained maintainer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimdgutierrez/kimdg.git"
+  },
+  "author": "Kim Michael Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimdgutierrez/kimdg/issues"
+  },
+  "homepage": "https://github.com/kimdgutierrez/kimdg#readme"
+}
