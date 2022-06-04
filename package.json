@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kimdgutierrez/kimdg/issues"
   },
-  "homepage": "https://github.com/kimdgutierrez/kimdg#readme"
+  "homepage": "https://github.com/kimdgutierrez/kimdg#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.22.0"
+  }
 }
